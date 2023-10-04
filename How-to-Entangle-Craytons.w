@@ -985,6 +985,9 @@ Introduce~$\Delta\phi-\Delta\phi$ as a simultaneous phase shift of the
 sine and cosine functions in the Law of Logodaedalus. Then such a
 phase shift may be used as a change of coordinate system.
 
+@ Finally, there is a joke, although many have known this already:
+there were no hidden variables.
+
 @* The Unlicense.
 \medskip
 \noindent This is free and unencumbered software released into the public domain.
