@@ -856,14 +856,15 @@ $$\eqalign{P(&\tau_1=+1{\,\wedge\,}\tau_2=-1) \cr
 {\it not\/} as a function of a difference, such
 as~$\phi_{01}-\phi_{02}$, but {\it instead\/} as a function of
 particular given values~$\phi_{01}$ and~$\phi_{02}$. This, I believe,
-is a problem the \SAMCLUB/ has mistaken for the real
-one. But its solution will lead {\it so quickly\/} to the real answer
-(in terms of a difference between angles) that\,...\,you have to see
-it to believe it. One wonders not so much {\it how\/} they missed the
-solution, but whether some of them {\it saw\/} it but dismissed it as
-unpublishable, because ``{\sc LOCAL CAUSALITY HAY SOCKS LOOPHOLES!}''
-That is, they knew if they submitted a paper they would be bombarded
-with psychic energy weapons and have their careers severely damaged.
+is a problem the \SAMCLUB/ has mistaken for the real one. But its
+solution will lead {\it so quickly\/} to the real answer (in terms of
+a difference between angles) that\,...\,you have to see it to believe
+it. One wonders not so much {\it how\/} they missed the solution, but
+whether some of them {\it saw\/} it but dismissed it as unpublishable,
+because ``{\sc LOCAL CAUSALITY HAY SOCKS LOOPHOLES!}''  That is, they
+knew if they submitted a paper they would be bombarded with psychic
+energy weapons and have their careers severely damaged. (On the other
+hand, it may be harder to see simple solutions than complicated ones.)
 
 @ To write this new ``expectation'' $E'(\tau_1\tau_2)$ (call it $\rho'$)
 as an integral weighted by a pdf would be excessive.
@@ -928,25 +929,27 @@ $$\eqalign{\rho &= -\cos\{2(\phi_1 - \phi_2)\} \cr
 
 Having done these things, we have derived, using only classical
 physics, the same correlation coefficient quantum mechanics gives. All
-we have done is take the {\it incomplete\/} solution \SAM/ members
-know how to derive, restrict it to a special case, and then discovered
-(by careful consideration of the number zero) that this restriction
-makes the solution complete! In so doing, we have shown that there is
+we have done is take the {\it wrong\/} solution \SAM/ members know how
+to derive, restrict it to a special case, and then discovered (by
+careful consideration of the number zero) that this restriction makes
+the solution {\it right\/}! In so doing, we have shown that there is
 no entanglement, no non-locality, no quantum weirdness
 whatsoever. Einstein, Podolsky, and Rosen were correct in~1935. The
 2022~Nobel Prize in Physics was awarded for research done so badly it
 ought to be regarded as {\it pseudoscience}. A perpetual motion
 machine, as I implied before, would be just as deserving of a prize.
 
-This affair demonstrates that prizes in science are unethical. Who
-will volunteer to torpedo the 2022~Nobel Prize in Physics, even though
-this {\it must\/} be done, eventually? Besides, to give out a huge
-cash prize for what ought to be a humble profession of scientific
-method is {\it an insult}. But, of course, it is not, in fact, a
-humble profession of scientific method. Today's science is often a
-profession of career advancement through citation churning. Journals
-do not advocate for their scientific value, but their ``impact
-factor.''  So perhaps a Nobel Prize is fitting, in this instance.
+Actually, this affair demonstrates that prizes in science are
+unethical. Who will volunteer to torpedo the 2022~Nobel Prize in
+Physics, even though this {\it must\/} be done, eventually? Besides,
+to give out a huge cash prize for what ought to be a humble profession
+of scientific method is {\it an insult}. But, of course, it is not, in
+fact, a humble profession of scientific method. Today's science is
+often a profession of career advancement through citation
+churning. Journals do not advocate for their scientific value, but for
+their ``impact factor,'' which is a measure of their career
+advancement value. So perhaps a Nobel Prize is fitting, in this
+instance.
 
 The number of paper retractions due is staggering. Nevertheless,
 expect instead professors occupying university administration offices,
