@@ -7,3 +7,4 @@ syntax: regexp
 # Other files.
 ^How-to-Entangle-Craytons$
 ^.*\.(c|o|idx|log|scn|toc|tex)$
+^install-to-website.zsh$
