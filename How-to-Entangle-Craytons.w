@@ -980,8 +980,8 @@ with respect to one of the two angular settings. This approach might
 seem obvious to we who do not confuse probability with ``randomness''
 or with physical substance. Nevertheless, the approach is
 overcomplicated. Instead, simply set the most natural angle to zero,
-once and for all time, as a sort of ``origin.'' Then
-introduce~$\Delta\phi-\Delta\phi$ as a simultaneous phase shift of the
+once and for all time, as a sort of ``origin.''
+Introduce~$\Delta\phi-\Delta\phi$ as a simultaneous phase shift of the
 sine and cosine functions in the Law of Logodaedalus. Then such a
 phase shift may be used as a change of coordinate system.
 
