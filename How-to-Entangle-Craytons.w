@@ -265,14 +265,14 @@ experimental_event (cray_ban angle1, cray_ban angle2)
 }
 
 @ One wishes to run a series of events, all with one particular pair
-of |cray_ban| angles, and count the different types of
-coincidence. For this there is a new record type, the |series_data|,
-containing the total number of events and the number of each type of
-event. (The total number of events will equal the sum of the other
-fields.)
+of |cray_ban| angles, and to count the different types of
+coincidence. To help fulfill this wish there is a new record type, the
+|series_data|, containing the total number of events and the number of
+each type of event. (The total number of events will equal the sum of
+the other fields.)
 
-You do not have to use a record type, of course. This is just one way
-to represent the information.
+You do not have to use a record type, of course. It is just one way to
+represent the information.
 
 (By using records, I am avoiding more \CEE/-specific features that
 have no use being in a tutorial such as this one. Anyway, I like using
@@ -294,8 +294,8 @@ typedef struct
   int number_of_sideways_updown_minus_minus;
 } series_data;
 
-@ Thus a series of |n| events may be run as follows. And it so happens
-that the |crayton| pairs will be magically entangled!
+@ Thus a series of |n| events may be run as follows. And, it so
+happens, the |crayton| pairs will be {\it magically entangled\/}!
 
 @<a series of |n| experimental events@>=
 series_data
