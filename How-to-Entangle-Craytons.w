@@ -940,16 +940,16 @@ ought to be regarded as {\it pseudoscience}. A perpetual motion
 machine, as I implied before, would be just as deserving of a prize.
 
 Actually, this affair demonstrates that prizes in science are
-unethical. Who will volunteer to torpedo the 2022~Nobel Prize in
-Physics, even though this {\it must\/} be done, eventually? Besides,
-to give out a huge cash prize for what ought to be a humble profession
-of scientific method is {\it an insult}. But, of course, it is not, in
-fact, a humble profession of scientific method. Today's science is
-often a profession of career advancement through citation
-churning. Journals do not advocate for their scientific value, but for
-their ``impact factor,'' which is a measure of their career
-advancement value. So perhaps a Nobel Prize is fitting, in this
-instance.
+unethical. Who---at least within the professional sciences---will
+volunteer to discredit the 2022~Nobel Prize in Physics, even though
+this {\it must\/} be done, eventually? Besides, to give out a huge
+cash prize for what ought to be a humble profession of scientific
+method is {\it an insult}. But, of course, it is not, in fact, a
+humble profession of scientific method. Today's science is often a
+profession of career advancement through citation churning. Journals
+do not advocate for their scientific value, but for their ``impact
+factor,'' which is a measure of their career advancement value. So
+perhaps a Nobel Prize is fitting, in this instance.
 
 The number of paper retractions due is staggering. Nevertheless,
 expect instead professors occupying university administration offices,
