@@ -1,0 +1,15 @@
+How to Entangle Craytons
+------------------------
+
+A tutorial on how to write a program that does the same thing as a
+two-channel Bell test experiment, except with variables in a digital
+computer, rather than with particles in a laboratory apparatus,
+quantum computers, etc. The tutorial is written in CWEB
+(https://ctan.org/pkg/cweb), and is itself a ‘literate C’ example of
+such a program.
+
+You can read about two-channel Bell test experiments here:
+https://en.wikipedia.org/w/index.php?title=CHSH_inequality&oldid=1170465048#Experiments
+
+The text of the tutorial also contains a very simple--and perhaps
+novel--proof of the correlation coefficient of two-channel Bell tests.
