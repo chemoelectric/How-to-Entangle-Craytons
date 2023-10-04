@@ -716,8 +716,9 @@ it were a muddled fruit at the bottom of a cocktail shaker. (Which
 school always did to me, in any case. I hate school.) The derivation
 probably still has bugs in it, the way a computer program that is too
 complicated seems never to have all the bugs cleaned out. They can be
-cleaned out, certainly, but the effort is not worth it. It is better
-to find a new approach.
+cleaned out, certainly, but you would have to be a throne-bearing
+angel of fire to achieve this success. Those positions already are
+taken, so it is better to find a new approach.
 
 @ The following much simpler derivation starts by deriving what the
 \SAMCLUB/ seems to believe is all classical physics is capable of
