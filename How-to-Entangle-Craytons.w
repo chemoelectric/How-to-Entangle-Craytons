@@ -120,8 +120,8 @@ typedef enum {updown, sideways} crayton;
 @ We need a special source of |crayton| variables. It produces two
 |crayton| at a time, one |updown| and the other |sideways|. Which of
 the two |crayton| is which, however, is sometimes |updown|-|sideways|,
-sometimes the |sideways|-|updown|, without bias. Lack of bias is
-ensured by use of |@<arbitrary numbers between zero and one@>|.
+sometimes |sideways|-|updown|, without bias. Lack of bias is ensured
+by use of |@<arbitrary numbers between zero and one@>|.
 
 In the \CEE/ code, the two |crayton| will be returned in the \CEE/
 version of a record structure. This pair of |crayton| variables will
