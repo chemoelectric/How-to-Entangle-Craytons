@@ -152,11 +152,11 @@ the digital equivalent of a device made from a kind of mirror that
 breaks a beam of light into two beams. But this mirror is also the
 digital equivalent of a polarizing filter. From the foregoing
 description it may seem complicated, but in fact the type for the
-entire mess is just a rational (such as floating point) number capable
-of representing an angle in radians. The angle is simply how much
-someone has rotated the angle of the filter. We need a pair of these
-filters, so let us call the type a |cray_ban|. For our magic, we will
-use a pair of polarized |cray_ban|.
+entire mess is just a real (such as floating point) number capable of
+representing an angle in radians. The angle is simply how much someone
+has rotated the angle of the filter. We need a pair of these filters,
+so let us call the type a |cray_ban|. For our magic, we will use a
+pair of polarized |cray_ban|.
 
 @<the |cray_ban| type@>=
 typedef double cray_ban;
