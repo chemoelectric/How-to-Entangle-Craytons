@@ -394,15 +394,14 @@ quantum physics, this would be impossible unless the |crayton| pairs
 were entangled. The entanglement, then, {\it must\/} be so. Thus the
 |crayton| pairs were indeed entangled.
 
-So, then, you ask, what is a {\it correlation coefficient\/}?
-It is a value
-between $-1$ and~$+1$ that gives some idea how interrelated are two
-functions or sets of data. It is a notion familiar in the field of
+So, then, you ask, what is a {\it correlation coefficient\/}?  It is a
+value between $-1$ and~$+1$ that gives some idea how interrelated are
+two functions or sets of data. It is a notion familiar in the field of
 statistics, but also in the theory of waves, where it indicates the
 capacity of two waves (if superposed) to form different interference
-patterns. For this experiment, we want the correlation coefficient
-comparing the ``way the |crayton| was sent'' of the two |crayton| in
-the pair. So let us begin.
+patterns. For this experiment, we want the correlation coefficient of
+``way the |crayton| was sent'' values ($+1$ or~$-1$) of |crayton|
+pairs. So let us begin.
 
 Assume the two |cray_ban| settings are~$\phi_1$
 and~$\phi_2$. The formula from quantum mechanics is then
@@ -412,10 +411,11 @@ $$ \eqalign{{\it correlation\ coefficient}
 or the same formula with the sign reversed, because a correlation
 coefficient has arbitrary sense. One must be sure to be consistent,
 but otherwise whether there is a minus sign or a plus sign in front of
-the whole thing does not matter.  I choose the minus sign because,
-after I stop dissembling and present my own derivation of the
-correlation coefficient, it will have the minus sign due to how I
-formulated the Law of Logodaedalus.
+the whole thing does not matter.  I choose the minus sign
+because---after I stop dissembling, and instead
+present my own derivation of the
+correlation coefficient---it will have the minus sign due to how I
+formulate the Law of Logodaedalus.
 
 The formula itself makes it evident that only the size of the angle
 between $\phi_1$ and~$\phi_2$ matters, not the direction of the
@@ -428,22 +428,24 @@ details. The resemblance is important in the study of optics.
 
 @ What experts in quantum physics tell us is: if we run four series of
 the experiment, using settings I will list below, and get
-approximately the results predicted by quantum mechanics, then we will
-have proved that our |crayton| pairs were entangled.
+approximately the results predicted by that theoretical formula for the
+correlation coefficient, then we will have proved that our |crayton|
+pairs were entangled.
 
 Actually they do not know about the |crayton| specifically, but only
 about other objects they do not know how to test this with, so they
-have invented other tests, such as shouting ``{\sc LOOK THAT WAY!}''
-and running out of the room. But {\it we\/} have the |crayton| and so
-can run the test. The experts may object, of course. They always
-object. But let us proceed, nonetheless.
+have invented other tests. Their tests are about as good as shouting
+``{\sc LOOK THAT WAY!}''  and running out of the room. But {\it we\/}
+have the |crayton| and so can run the actual, good test. The experts
+may object, of course. They always object. But let us proceed,
+nonetheless.
 
 The settings and corresponding correlation coefficients are as
 follows:
 $$\phi_1,\phi_2=\cases{0,\, \pi/8         & {$-1/\sqrt2\approx-0.70711$} \cr
-                       0,\, 3\,\pi/8      & {$+1/\sqrt2\approx+0.70711$} \cr
+                       0,\, 3\pi/8        & {$+1/\sqrt2\approx+0.70711$} \cr
                        \pi/4,\, \pi/8     & {$-1/\sqrt2\approx-0.70711$} \cr
-                       \pi/4,\, 3\,\pi/8  & {$-1/\sqrt2\approx-0.70711$} \cr}$$
+                       \pi/4,\, 3\pi/8    & {$-1/\sqrt2\approx-0.70711$} \cr}$$
 
 @ Now we are going to do some clever stuff. We are going to use the
 data we have collected, together with the Law of Logodaedalus, to
@@ -478,15 +480,11 @@ double freq_of_sideways_updown_minus_minus = @|
 
 @ From the Law of Logodaedalus, it is possible to use these
 frequencies to estimate products of the squares of cosines and sines
-of $\phi_1$ and~$\phi_2$. I leave it as an exercise for the reader to
-convince themselves of this fact. Here is not a good place to do a
-proof, and it is good exercise for what Hercule~Poirot called ``the
-little gray cells.'' It is intuitive once visualized, if a person be
-capable. (Not everyone is. There are people, including the late famous
-neurologist Oliver~Sacks, who cannot even recognize a human
-face---whereas Sacks's mother, a surgeon, could do a three-dimensional
-drawing without reference. One must allow for individual variation.)
-Thus:
+of $\phi_1$ and~$\phi_2$. I leave it as an exercise to convince
+oneself of this fact. Here is not a good place to do a proof, and
+visualizing the relationship intuitively (if the reader be capable,
+for indeed individuals vary greatly) is good exercise for what
+Hercule~Poirot called ``the little gray cells.'' Thus:
 
 @<estimates of certain products@>=
 double estimate_of_cos2_phi1_cos2_phi2 = @|
@@ -543,9 +541,10 @@ correlation_coefficient_estimate (series_data sdata)
 the nominal value. You will want something similar, but how to print
 out data varies greatly from one programming language to
 another. Although I know many programming languages, in this tutorial
-I cannot help you much. In any case, some of these languages cannot
-make up their mind how to do output, and every one of them sucks at
-it.
+I cannot help you much with print-outs. In any case, some of these
+languages cannot make up their mind how to do output, but instead
+present you with many different ways. And sometimes I wonder if every
+language sucks at output, anyway.
 
 @<printing out the correlation coefficient estimate@>=
 void
@@ -604,7 +603,7 @@ main ()
 library of mathematical functions, {\tt -lm}. Also, this probably does
 not matter, but I wrote the program for a \CEE/~standard that is not
 expected to be approved until~2024. The program should be legal under
-the older standards, but more likely to provoke warnings from your
+the previous standard, but more likely to provoke warnings from your
 compiler.
 
 @ When I compile and run my program, I obtain the following as my output:
