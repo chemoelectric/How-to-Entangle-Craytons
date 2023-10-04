@@ -642,33 +642,35 @@ silly as a perpetual motion machine. Entanglement is the wrongest
 wrong thing there has ever been in the history of physics.
 
 Your program demonstrates that quantum theorists have been {\it just
-plain wrong\/} in their reasoning. One of the root causes is that
-license John Stewart Bell gave theorists to declare anything ``true''
-that suited their fancy. They have used that license freely. Any
-attempt to declare their math illegitimate is immediately canceled by
-the license Bell gave them. The declarer will be slammed with a {\sc
-GISH GALLOP} of ``{\it Local causality, beables, socks, heart attacks,
-loopholes, dichotomic variables, imported hay, Fantastic Voyage, Final
-Four,\,...\,!  Did you hear me? Tick, tick, tick. I said {\sc LOCAL
-CAUSALITY HAY SOCKS LOOPHOLES!}}''
+plain wrong\/} in their reasoning. One of the pillars of support for
+that wrongness is the license John Stewart Bell gave theorists to
+declare anything ``true'' that suited their fancy. They have used that
+license freely. Any attempt to declare their math illegitimate is
+immediately canceled by the license Bell gave them. The declarer will
+be slammed with a {\sc GISH GALLOP} of ``{\it Local causality,
+beables, socks, heart attacks, loopholes, dichotomic variables,
+imported hay, Fantastic Voyage, Final Four,\,...\,!  Did you hear me?
+Tick, tick, tick. I said {\sc LOCAL CAUSALITY HAY SOCKS LOOPHOLES!}}''
 
 This deluge will serve two purposes. The first is to prevent
 publication of any paper the declarer may present. The second is, so
 to speak, to damage the declarer's hypothalamus. The victim, if not
 hurt too badly, will run off like a dog with tail between legs. I,
 personally, am psychiatrically disabled and have been rendered
-temporarily bedridden by such a barrage, despite that what I had said
-concerned {\it an electronic signal processing problem}, and so had no
-quantum mechanics in it whatsoever.
+temporarily bedridden by such a barrage. This happened (it really
+did), even though what I had said concerned {\it an electronic signal
+processing problem}, and so had no quantum mechanics in it. The signal
+processing problem was logically equivalent to a Bell test, however,
+so anything I said had to be attacked.
 
-I had thought to say more about what has been perpetrated, but words
-escape me. Papers and books promoting ``entanglement'' and
-``non-locality'' are simply worthless. They have no use except as
-paper pulp. Instead I will do another thing the \SAM/
-magicians claim cannot be done: for the sake of those capable of
-reading the mathematics, I will derive the correlation coefficient of
-our experiment, but using classical physics instead of quantum
-mechanics.
+I had thought to say more about what has been perpetrated in the name
+of ``quantum mechanics,'' but words escape me. Papers and books
+promoting ``entanglement'' and ``non-locality'' are simply
+worthless. They have no use except as paper pulp. Instead I will do
+another thing the \SAM/ magicians claim cannot be done: for the sake
+of those capable of reading the mathematics, I will derive the
+correlation coefficient of our experiment, but using classical physics
+instead of quantum mechanics.
 
 @ Actually the correlation coefficients for experiments such as this
 one were derived long ago using the classical theory of wave
