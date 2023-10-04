@@ -70,7 +70,7 @@ $(MY_DOC): $(MY_DOC).c
 
 $(MY_DOC).tex: $(MY_DOC)-revision.txt
 
-$(MY_DOC)-revision.txt: GNUmakefile
+$(MY_DOC)-revision.txt: $(MY_DOC).w
 	date -u > $(@)
 
 .PHONY: clean

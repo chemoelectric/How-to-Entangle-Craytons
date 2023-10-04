@@ -35,7 +35,6 @@
 \def\POSIX/{{\sc{POSIX}}}
 \def\SAM/{{\sc{SMOKE-\AM-MIRRORS}}}
 \def\SAMCLUB/{{\sc{SMOKE-\AM-MIRRORS CLUB}}}
-\font\ninerm=cmr9
 
 \def\covernote{\vbox{%
 \centerline{A tutorial by}%
@@ -44,7 +43,7 @@
 \smallskip
 \centerline{prepared and placed in the public domain}%
 \centerline{in the year 2023, and last revised}%
-\centerline{\input{How-to-Entangle-Craytons-revision.txt}}%
+\centerline{\sevenrm\input{How-to-Entangle-Craytons-revision.txt}}%
 \bigskip
 \centerline{Containing also a}%
 \smallskip
