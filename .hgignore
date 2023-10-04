@@ -1,0 +1,9 @@
+syntax: regexp
+
+# Backup files.
+~$
+\.orig$
+
+# Other files.
+^How-to-Entangle-Craytons$
+^.*\.(c|o|idx|log|scn|toc|tex)$
