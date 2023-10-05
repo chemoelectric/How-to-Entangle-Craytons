@@ -914,7 +914,9 @@ inequality'' is complete garbage.
 winning a Nobel Prize, we consider only the special
 case~$\phi_{02}=0$. Then $$\rho' = -\cos(2\phi_{01}) =
 -\cos\{2(\phi_{01}-\phi_{02})\}$$ and it {\it does\/} have the correct
-form. Yes, it is valid to include zero in an expression.
+form. Yes, it is valid to subtract~$0=\phi_{02}$. The
+angle~$\phi_{02}$ will serve as an {\it origin}, with respect to which
+other angles are measured.
 
 And now let us give the name~$\Delta\phi$ to any angle whatsoever, and
 include zero in the expression once more, by adding~$0=\Delta\phi -
@@ -940,21 +942,25 @@ ought to be regarded as {\it pseudoscience}. A perpetual motion
 machine, as I implied before, would be just as deserving of a prize.
 
 Actually, this affair demonstrates that prizes in science are
-unethical. Who will volunteer to discredit the 2022~Nobel Prize in
-Physics, even though this {\it must\/} be done, eventually? Besides,
-to give out a huge cash prize for what ought to be a humble profession
-of scientific method is {\it an insult}. But, of course, it is not, in
-fact, a humble profession of scientific method. Today's science is
-often a profession of career advancement through citation
-churning. Journals do not advocate for their scientific value, but for
-their ``impact factor,'' which is a measure of their career
-advancement value. So perhaps a Nobel Prize is fitting, in this
-instance.
+unethical. Who will volunteer to {\it totally\/} discredit the
+2022~Nobel Prize in Physics, even though this {\it must\/} be done,
+eventually?  Besides, to give out a huge cash prize for what ought to
+be a humble vocation or avocation of scientific method is {\it an
+insult}. But, of course, it is not, in fact, a humble vocation or
+avocation of scientific method. Today's science is often a business of
+career advancement through citation churning. Journals do not advocate
+for their scientific value, but for their ``impact factor,'' which is
+a measure of their career advancement value. So perhaps a Nobel Prize
+is fitting, in this instance. The ``impact factor'' has been
+astonishing. The word ``quantum'' has even taken over my own
+professional society, the Institute of~Electrical and~Electronics
+Engineers, whose members may end up having to answer for their errors
+in tort court.
 
-The number of paper retractions due is staggering. Nevertheless,
-expect instead professors occupying university administration offices,
-standing on the roofs with megaphones, shouting ``{\sc LOCAL CAUSALITY
-HAY SOCKS LOOPHOLES!}''
+Despite ``impact factor,'' the number of paper retractions due is
+staggering. Nevertheless, expect instead professors occupying
+university administration offices, standing on the roofs with
+megaphones, shouting ``{\sc LOCAL CAUSALITY HAY SOCKS LOOPHOLES!}''
 
 @ There is a simple interpretation for this classical derivation, an
 interpretation I worked into simulations slightly more complicated
@@ -980,10 +986,9 @@ with respect to one of the two angular settings. This approach might
 seem obvious to we who do not confuse probability with ``randomness''
 or with physical substance. Nevertheless, the approach is
 overcomplicated. Instead, simply set the most natural angle to zero,
-once and for all time, as a sort of ``origin.''
-Introduce~$\Delta\phi-\Delta\phi$ as a simultaneous phase shift of the
-sine and cosine functions in the Law of Logodaedalus. Then such a
-phase shift may be used as a change of coordinate system.
+to serve as origin of a coordinate system, and get new coordinate
+systems by simultaneously shifting phases of the sinusoidal functions
+in the Law of Logodaedalus.
 
 @* The Unlicense.
 \medskip
