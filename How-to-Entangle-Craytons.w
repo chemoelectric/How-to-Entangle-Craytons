@@ -932,10 +932,10 @@ $$\eqalign{\rho &= -\cos\{2(\phi_1 - \phi_2)\} \cr
 Having done these things, we have derived, using only classical
 physics, the same correlation coefficient quantum mechanics gives. All
 we have done is take the {\it wrong\/} solution \SAM/ members know how
-to derive, restrict it to a special case, and then discovered (by
+to derive, restrict it to a special case, and thus discover (by
 careful consideration of the number zero) that this restriction makes
-the solution {\it right\/}! In so doing, we have shown that there is
-no entanglement, no non-locality, no quantum weirdness
+the solution {\it right\/}! We have furthermore, by implication, shown
+that there is no entanglement, no non-locality, no quantum weirdness
 whatsoever. Einstein, Podolsky, and Rosen were correct in~1935. The
 2022~Nobel Prize in Physics was awarded for research done so badly it
 ought to be regarded as {\it pseudoscience}. A perpetual motion
