@@ -667,7 +667,7 @@ of ``quantum mechanics,'' but words escape me. Papers and books
 promoting ``entanglement'' and ``non-locality'' are simply
 worthless. They have no use except as paper pulp. Instead I will do
 another thing the \SAM/ magicians claim cannot be done: for the sake
-of those capable of reading the mathematics, I will derive the
+of those who know how to read the mathematics, I will derive the
 correlation coefficient of our experiment, but using classical physics
 instead of quantum mechanics.
 
