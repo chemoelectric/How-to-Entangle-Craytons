@@ -790,9 +790,9 @@ impress upon them the illusion an explicit causal chain is the {\it only\/}
 form in which classical physics can be expressed.
 
 If John~Bell had been correct about that, then Johannes~Kepler was not
-doing classical physics when he observed that planets moved in
+doing classical physics when he observed that planets move in
 ellipses, nor was Isaac~Newton when he formulated his Law of Universal
-Gravitation. But really that is beside the point, because thosed are
+Gravitation. But really that is beside the point, because those are
 {\it empirical laws}, not derived theories. As I said earlier, the
 \SAM/ crowd are actually distracting you from {\it this\/} fact: in
 the context at hand, ``classical physics'' means {\it any\/}
