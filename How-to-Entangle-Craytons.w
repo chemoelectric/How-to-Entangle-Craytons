@@ -954,7 +954,7 @@ a measure of their career advancement value. So perhaps a Nobel Prize
 is fitting, in this instance. The ``impact factor'' has been
 astonishing. The word ``quantum'' has even taken over my own
 professional society, the Institute of~Electrical and~Electronics
-Engineers, whose members may end up having to answer for their errors
+Engineers, whose members may end up answering for their errors
 in tort court.
 
 Despite ``impact factor,'' the number of paper retractions due is
