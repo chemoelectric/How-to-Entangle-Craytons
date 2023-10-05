@@ -36,14 +36,44 @@
 \def\SAM/{{\sc{SMOKE-\AM-MIRRORS}}}
 \def\SAMCLUB/{{\sc{SMOKE-\AM-MIRRORS CLUB}}}
 
+% See https://tinyurl.com/2p9fsj5s
+\newif\ifpdfmode
+\ifx\pdfoutput\undefined
+\else
+    \ifnum\pdfoutput>0 \pdfmodetrue\fi
+\fi
+\def\url#1{%
+    % turn off the special meaning of ~ inside \url{}.
+    \begingroup\catcode`\~=12\catcode`\_=12\relax
+    \ifpdfmode
+        \pdfstartlink user{
+            /Subtype /Link
+            % w/o this you get an ugly box around the URL.
+            /Border [ 0 0 0 ]   % radius, radius, line thickness
+            /A <<
+                /Type /Action
+                /S /URI
+                /URI (#1)
+        >>
+        }%
+        {#1}%
+        \pdfendlink{}%
+    \else
+        %{#1}%
+        {\tt#1}%
+    \fi
+    \endgroup}
+
 \def\covernote{\vbox{%
 \centerline{A tutorial by}%
 \smallskip
 \centerline{{\sc BARRY} SCHWARTZ,}%
 \smallskip
 \centerline{prepared and placed in the public domain}%
-\centerline{in the year 2023, and last revised}%
+\centerline{in the year 2023, and revised}%
 \centerline{\sevenrm\input{How-to-Entangle-Craytons-revision.txt}}%
+\centerline{with {\tt CWEB} source and revision history kept at}%
+\centerline{\sevenrm\url{https://github.com/chemoelectric/How-to-Entangle-Craytons}}%
 \bigskip
 \centerline{Containing also a}%
 \smallskip
@@ -57,8 +87,8 @@
 \centerline{A point of thanks is due to a patient person}%
 \centerline{for their scientific curiosity.}%
 \centerline{In our times, scientific method}%
-\centerline{has been displaced by scientific authority,}%
-\centerline{and to encounter actual curiosity is rare.}%
+\centerline{has been displaced by scientific authority.}%
+\centerline{To encounter actual curiosity is rare.}%
 }}}
 
 @* Magically Entangled Craytons. What follows are instructions on how
@@ -1014,8 +1044,5 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.}
-\medskip
-\noindent For more information, please refer to $<$https://unlicense.org$>$
-
 
 @* Index.
