@@ -226,9 +226,9 @@ is actually the {\it mathematical\/} claim---and an alarming
 one---that a quantum physics problem, written in logically equivalent
 form but in a mathematics other than that of quantum physics, cannot
 exist, cannot be solved, or will come to a different result! For, once
-put in the form of a word problem, physics becomes applied
-mathematics, and ``classical physics'' becomes merely the application
-of any and all mathematics to the reasonable solution of such word
+put in the form of word problems, physics becomes applied mathematics,
+and ``classical physics'' becomes merely the application of any and
+all mathematics to the reasonable solution of such word
 problems. Despite public address systems blaring pronouncements
 through billows of smoke, nothing resembling a smidgen of proof of
 such ``irreducibility'' has ever been produced. The quantum physics
