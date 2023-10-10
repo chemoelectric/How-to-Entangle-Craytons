@@ -211,7 +211,7 @@ This definition is {\it purely mathematical} and is complete
 in itself. Nevertheless, if you have read the ``smoke'' literature,
 you will have seen that none other than John Stewart Bell, Fellow of
 the Royal Society, redefined the conditional probability as follows:
-$$P(a{\vert}b) = \cases{P(a{\wedge}b)\,/\,P(b) &{\rm pretty\ much\ never}\cr
+$$P(a{\vert}b) = \cases{P(a{\wedge}b)\,/\,P(b) &{\rm but\ also}\cr
                         P(a) &{\rm if\ local\ causality,\ beables,%
                         \ socks,\ heart\ attacks,\ $\lambda$,\ etc.}\cr} $$
 Most individuals seriously familiar with mathematics will recognize
