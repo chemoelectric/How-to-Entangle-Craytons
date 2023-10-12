@@ -91,6 +91,8 @@
 \centerline{To encounter actual curiosity is rare.}%
 }}}
 
+\input pdfwebtocfront
+
 @* Magically Entangled Craytons. What follows are instructions on how
 to write a program that, on an ordinary computer, will
 quantum-entangle two variables so that there is action at a distance
