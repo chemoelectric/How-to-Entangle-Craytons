@@ -930,15 +930,16 @@ books. This result is, I believe, what \SAM/ members
 commonly believe is the best classical physics can achieve.
 
 @ This result has the wrong form, so it simply {\it cannot\/} be the
-correct solution! And, indeed, it gives incorrect results. If you plug
-in the angles $\phi_{01}=\pi/4$ and~$\phi_{02}=\pi/8$, for instance,
-you will get zero instead of the correct value,~$-1/\sqrt2$. But now,
-with this result that obviously, at a glance, cannot be correct, you
-can derive an ``inequality'' and win a Nobel Prize. I am pretty sure
-this is one route, at least, by which the so-called ``{\sc CHSH}
-inequality'' can be derived. I do not wish to damage my cerebral
-cortex by looking into the matter more deeply. The ``{\sc CHSH}
-inequality'' is complete garbage.
+correct solution! [{\it Side note: it is actually a solution for two
+|cray_ban|{\kern-1pt} in series.}] And, indeed, it gives incorrect
+results. If you plug in the angles $\phi_{01}=\pi/4$
+and~$\phi_{02}=\pi/8$, for instance, you will get zero instead of the
+correct value,~$-1/\sqrt2$. But now, with this result that obviously,
+at a glance, cannot be correct, you can derive an ``inequality'' and
+win a Nobel Prize. I am pretty sure this is one route, at least, by
+which the so-called ``{\sc CHSH} inequality'' can be derived. I do not
+wish to damage my cerebral cortex by looking into the matter more
+deeply. The ``{\sc CHSH} inequality'' is complete garbage.
 
 @ But suppose that, instead of publishing an ``inequality'' and
 winning a Nobel Prize, we consider only the special
