@@ -36,9 +36,6 @@ CWEAVEFLAGS = -v
 PDFTEX = pdftex
 PDFTEXFLAGS =
 
-QPDF = qpdf
-QPDFFLAGS =
-
 CC = cc
 CFLAGS = -g
 
@@ -59,11 +56,7 @@ all: pdf program
 
 %.pdf: %.tex
 	$(PDFTEX) $(PDFTEXFLAGS) $(<)
-	mv $(@) $(MY_DOC).tmp1.pdf
-	$(QPDF) $(QPDFFLAGS) $(MY_DOC).tmp1.pdf --pages . r1 . 1-r2 -- \
-		$(MY_DOC).tmp2.pdf
-	rm $(MY_DOC).tmp1.pdf
-	mv $(MY_DOC).tmp2.pdf $(@)
+	$(PDFTEX) $(PDFTEXFLAGS) $(<)
 
 $(MY_DOC): $(MY_DOC).c
 	$(CC) $(CFLAGS) -o $(@) $(<) -lm
